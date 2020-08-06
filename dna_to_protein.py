@@ -125,9 +125,3 @@ print(dna_rev_comps2)
 print(protein_5)
 print(dna_rev_comps3)
 print(protein_6)
-
-# References:
-
-# [1] Clancy, S. (2008) RNA splicing: introns, exons and spliceosome.
-#     Nature Education 1(1):31. https://www.nature.com/scitable/topicpage/rna-splicing-introns-exons-and-spliceosome-12375/
-# [2] Genetic Code. Retrieved on 04 August 2020 from https://en.wikipedia.org/wiki/Genetic_code
