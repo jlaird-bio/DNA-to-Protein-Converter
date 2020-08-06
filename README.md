@@ -9,3 +9,10 @@
 2. Prints the protein sequences
 
 3. Change the path to meet the needs of your specific directory
+
+# References:
+
+[1] Clancy, S. (2008) RNA splicing: introns, exons and spliceosome.
+    Nature Education 1(1):31. https://www.nature.com/scitable/topicpage/rna-splicing-introns-exons-and-spliceosome-12375/
+    
+[2] Genetic Code. Retrieved from https://en.wikipedia.org/wiki/Genetic_code
