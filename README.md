@@ -1,7 +1,11 @@
-DNA-to-Protein-Converter:
+# DNA-to-Protein-Converter:
 
-> Converts a DNA sequence from a FASTA file in the working directory to six protein sequences based on the six open reading frames
+> The following script attempts the following:
 
-> Prints those protein sequences
+> NOTE: This script does not use packages like BIOPYTHON as an exercise in coding efficiency
 
-> Change the path to meet the needs of your specific directory
+1. Converts a DNA sequence from a FASTA file in the working directory to six protein sequences based on the six open reading frames
+
+2. Prints the protein sequences
+
+3. Change the path to meet the needs of your specific directory
